@@ -1,2 +1,2 @@
 # Student-details-management-system
-First year univercity project
+First year university project
